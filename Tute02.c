@@ -32,8 +32,7 @@ int main() {
   else{
     tot_price = 30 * 50 + (distance - 30) * 40;
   }
-
-  printf("\n");
+  
   printf("Price to be paid: %d",tot_price);
   
   return 0;

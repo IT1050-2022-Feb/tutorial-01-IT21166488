@@ -20,7 +20,6 @@ int main() {
   sum = marks1 + marks2;
   avg = sum / 2.0;
 
-  printf("\n");
   printf("Average of 02 subject is %.2f",avg);
   
   return 0;
